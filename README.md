@@ -29,3 +29,7 @@ My goal is to help organizations make informed, data-driven decisions by deliver
 👯‍♀️ I'm actively seeking internship or entry level roles to further sharpen my skills
 
 
+## PROJECTS
+[HEALTHCARE ACCESS IN AFRICA](https://github.com/GRACE-UDOH/HEALTH-CARE-ACCESS-IN-AFRICA/blob/main/README.md)
+
+
