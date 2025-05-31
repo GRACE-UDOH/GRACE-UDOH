@@ -11,7 +11,6 @@ As a Data Analyst, I am passionate about transforming raw data into meaningful i
 My goal is to help organizations make informed, data-driven decisions by delivering clear, accurate, and actionable reports that turn data into a powerful decision-making tool.
 
 ## 🔗 Links
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/GRACE-UDOH)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grace-o-udoh)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/priceless_ozzie)
