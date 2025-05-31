@@ -32,6 +32,6 @@ My goal is to help organizations make informed, data-driven decisions by deliver
 ## PROJECTS
 [HEALTHCARE ACCESS IN AFRICA](https://github.com/GRACE-UDOH/HEALTH-CARE-ACCESS-IN-AFRICA/blob/main/README.md)
 
-[WATER ACCESS IN AFRICA](https://github.com/GRACE-UDOH/WATER-ACCESS-IN-AFRICA/blob/main/README%20(1).md)
+[WATER ACCESS IN AFRICA](https://github.com/GRACE-UDOH/WATER-ACCESS-IN-AFRICA/blob/main/README%20(3).md)
 
 
